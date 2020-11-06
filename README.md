@@ -1,3 +1,8 @@
+# Em Desenvolvimento
+## Sobre
+Esse projeto existe com propósito de estudo sobre Reac... nada alám disso
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
