@@ -1,7 +1,7 @@
 # Um simples app de Todo-list
 
 [Imagem](https://i.imgur.com/fBSzfmF.png)
-![alt Imagem](http://url/to/img.png)
+![alt Imagem](https://i.imgur.com/fBSzfmF.png)
 
 
 ## Sobre
