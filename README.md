@@ -1,6 +1,8 @@
 # Um simples app de Todo-list
 
-[Imgur](https://i.imgur.com/fBSzfmF.png)
+[Imagem](https://i.imgur.com/fBSzfmF.png)
+![alt Imagem](http://url/to/img.png)
+
 
 ## Sobre
 Esse projeto existe com propósito de estudo sobre Reac... nada alám disso
